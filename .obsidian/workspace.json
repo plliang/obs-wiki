@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a62c187fc4b57b7f",
+        "id": "89107bb9c2205654",
         "type": "tabs",
         "children": [
           {
-            "id": "b28d8a3ea1d6558f",
+            "id": "e0524586d0c7e692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da09a6d91d86c4b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "703e8037c5192f48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "langChain/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "langChain/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "langChain/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "langChain/README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,10 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "703e8037c5192f48",
+  "active": "e0524586d0c7e692",
   "lastOpenFiles": [
-    "_navbar.md",
     "langChain/README.md",
+    "_navbar.md",
     "langChain",
     "README.md",
     "_sidebar.md"
