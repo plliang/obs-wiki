@@ -1,0 +1,1 @@
+本项目采用[Docsify](https://docsify.js.org/#/)构建，旨在对日常知识进行总结。通过`Github pages`进行在线分享。
