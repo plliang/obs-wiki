@@ -16,7 +16,7 @@ $ pip install "uvicorn[standard]"
 基本示例
 
 <!-- tabs:start -->
-# **app_fastapi.py**
+**app_fastapi.py**
 ```Python
 from fastapi import FastAPI
 
@@ -33,7 +33,7 @@ async def welcome():
     return 'Hello World Async'
 ```
 
-# **启动运行**
+**启动运行**
 ```Bash
 $ uvicorn --port 9000 app_fastapi:app
 ```
