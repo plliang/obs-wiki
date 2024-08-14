@@ -146,12 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e0524586d0c7e692",
+  "active": "21639d9666aec346",
   "lastOpenFiles": [
     "python/_navbar.md",
     "python/fastapi.md",
-    "_media/python-fastapi-swagger.png",
-    "_media",
+    "python/_media/python-fastapi-swagger.png",
+    "python/_media",
     "python/README.md",
     "_navbar.md",
     "python",

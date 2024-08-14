@@ -40,7 +40,7 @@ $ uvicorn --port 9000 app_fastapi:app
 <!-- tabs:end -->
 
 FasiAPI集成了Swagger UI，访问`http://127.0.0.1:9000/docs`。
-![[python-fastapi-swagger.png]]
+![python-fastapi-swagger.png](./_media/python-fastapi-swagger.png) 
 
 还可以访问`http://127.0.0.1:9000/redoc`查看由ReDoc生成的文档。
 
