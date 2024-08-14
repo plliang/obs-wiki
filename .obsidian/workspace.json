@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_navbar.md",
+                "file": "python/fastapi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_navbar.md",
+                "file": "python/fastapi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_navbar.md",
+                "file": "python/fastapi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_navbar.md"
+                "file": "python/fastapi.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "e0524586d0c7e692",
   "lastOpenFiles": [
-    "langChain/README.md",
+    "python/_navbar.md",
+    "python/fastapi.md",
+    "_media/python-fastapi-swagger.png",
+    "_media",
+    "python/README.md",
     "_navbar.md",
+    "python",
+    "langChain/README.md",
     "langChain",
     "README.md",
     "_sidebar.md"
